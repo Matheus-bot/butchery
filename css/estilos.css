@@ -105,7 +105,7 @@ img{
   }
   
   #nav li a:hover {
-    background-color: #23231e;
+    background-color: #FFA500;
     color: #fff
   }
   
@@ -132,7 +132,8 @@ footer {
 }
 
 .tabela1 {
-  width: 100%;
+  
+  width: 60%;
   text-align: center;
 }
 
@@ -149,15 +150,15 @@ footer {
 }
 
 .tabela1 tr:nth-child(even) {
-  background-color: #ddd;
+  background-color: #d7f370;
 }
 
 .tabela1 tr:hover {
-  background-color: #04aa6d;
+  background-color: #e7891d;
 }
 
 .tabela1 th {
-  background-color: #333;
+  background-color: #e7891d;
   color: #fff;
   font-weight: bold;
 }
