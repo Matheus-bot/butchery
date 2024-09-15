@@ -95,7 +95,7 @@ img{
 
   #nav ul{
     list-style-type: none; 
-    background-color: rgba(223, 224, 127, 0.952)
+    background-color: #F5DEB3
   }
   #nav li a{
     display: block;
@@ -121,8 +121,8 @@ img{
 footer {
   float: left;
   width: 100%;
-  background-color: rgba(223, 224, 127, 0.952);
-  color: #4d0000;
+  background-color: #e7891d;
+  color: #ffffff;
   height: 100px;
   margin-top: 1%;
   display: flex;
@@ -140,7 +140,7 @@ footer {
 .tabela1,
 .tabela1 th,
 .tabela1 td {
-  border: 1px solid #333;
+  border: 1px solid #000000;
   border-collapse: collapse;
 }
 
@@ -150,7 +150,8 @@ footer {
 }
 
 .tabela1 tr:nth-child(even) {
-  background-color: #d7f370;
+  background-color: #ffffff;
+  
 }
 
 .tabela1 tr:hover {
