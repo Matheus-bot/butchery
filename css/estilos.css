@@ -116,3 +116,48 @@ img{
   #nav .active a{
     color:#ffffff;
   }
+
+  
+footer {
+  float: left;
+  width: 100%;
+  background-color: rgba(223, 224, 127, 0.952);
+  color: #4d0000;
+  height: 100px;
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.tabela1 {
+  width: 100%;
+  text-align: center;
+}
+
+.tabela1,
+.tabela1 th,
+.tabela1 td {
+  border: 1px solid #333;
+  border-collapse: collapse;
+}
+
+.tabela1 th,
+.tabela1 td {
+  padding: 1%;
+}
+
+.tabela1 tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+.tabela1 tr:hover {
+  background-color: #04aa6d;
+}
+
+.tabela1 th {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+}
